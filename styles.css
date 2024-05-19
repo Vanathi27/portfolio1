@@ -138,12 +138,8 @@
     font-size: 56px;
 }
 .about-content p{
-    font-size: 28px;
     color: black;
-}
-.about-content p{
-    color: black;
-    font-size: 15px;
+    font-size: 20px;
     margin: 2em 0 3em;
 }
 .studies{
