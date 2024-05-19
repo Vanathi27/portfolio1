@@ -137,10 +137,9 @@
     color:rgb(14, 14, 155);
     font-size: 56px;
 }
-.about-content p{
+.about-content h4{
     color: black;
-    font-size:30px;
-    margin:2em 0 3em;
+    font-size:20px;
 }
 .studies{
     background: white;
